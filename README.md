@@ -2,7 +2,7 @@
 
 Plugin de relatórios gerenciais para o GLPI 11. Fase atual: **Relatório Mensal de Service Desk** (tela, PDF/impressão, CSV e Word, com logos).
 
-- **Autor:** Herbert
+- **Autor:** Herbert Guariente
 - **Licença:** GPL-2.0-or-later
 - **Requisitos:** GLPI >= 11.0.0 e < 11.1.0, PHP >= 8.2
 - **Permissão:** direito nativo `ticket` (leitura). Não cria tabelas nem direitos próprios.
